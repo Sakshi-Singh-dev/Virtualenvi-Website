@@ -1,4 +1,4 @@
-// Mobile menu toggle
+// Mobile menu toggle // Virtualenvi Website — script.js
 function toggleMenu() {
   const mobileMenu = document.getElementById('mobileMenu');
   if (mobileMenu) {
